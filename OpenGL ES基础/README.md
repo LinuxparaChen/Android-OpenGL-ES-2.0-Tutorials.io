@@ -1,3 +1,4 @@
-#OpenGL ES基础
+# OpenGL ES基础
 ---
-这部分内容主要介绍OpenGL ES的基本概念。包含
+这部分内容主要介绍OpenGL ES的基本概念。
+### 内容结构
