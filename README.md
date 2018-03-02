@@ -25,6 +25,6 @@ LearnOpenGL中文版[https://learnopengl-cn.github.io/](https://learnopengl-cn.g
 本内容依托GitBook平台免费提供，作者在撰写内容时经常熬夜到12点后，实属不易。如果觉得阅读本内容让您有所收获，欢迎捐赠，作者会更努力更新内容。
 
 ![](/assets/支付宝收款码.jpg)                   ![](/assets/微信收款码.png)
-![](/assets/ac68eecbe8e59a00cbcfe0f61d6ad770.png)
+
 #### 内容结构
 
