@@ -2,7 +2,7 @@
 
 ---
 
-这部分内容包含了一些基本几何图形绘制：三角形、立方体、球体、纹理、光照等的操作。以下代码托管在GitHub上，项目名称：[GLES2.0Tutorials](https://github.com/LinuxparaChen/AGLES2.0Tutorials)
+这部分内容包含了一些基本几何图形绘制：三角形、立方体、球体、纹理、光照等的操作。以下代码托管在GitHub上，项目名称：[AGLES2.0Tutorials](https://github.com/LinuxparaChen/AGLES2.0Tutorials)
 
 ### 结构：
 
