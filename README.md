@@ -10,6 +10,8 @@
 
 文中一些内容摘自网络。如有侵权，请与我联系，我会及时做出处理。
 
+文中的案例保存在GitHub上，[AGLES2.0Tutorials项目](https://github.com/LinuxparaChen/AGLES2.0Tutorials)
+
 参考网站：
 
 LearnOpenGL英文版 [https://learnopengl.com/](https://learnopengl.com/)
