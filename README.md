@@ -46,6 +46,7 @@ LearnOpenGL中文版[https://learnopengl-cn.github.io/](https://learnopengl-cn.g
   * [3. 地球绘制](OpenGL ES入门/3. 地球绘制.md)  
   * [4. 三棱锥绘制](OpenGL ES入门/4. 三棱锥绘制.md)  
   * [5. 摄像头预览效果](OpenGL ES入门/5. 摄像头预览效果.md)
+  * [6. 模型加载.md](OpenGL ES基础/6. 模型加载.md)
 
 
 
