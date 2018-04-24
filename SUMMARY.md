@@ -14,5 +14,6 @@
   * [4. 3D模型加载](OpenGL ES入门/4. 3D模型加载.md)
   * [5. 3D模型-阴影](OpenGL ES入门/5. 3D模型-阴影.md)
   * [6. 混合、雾、背面裁剪](OpenGL ES入门/6. 混合、雾、背面裁剪.md)
+  * [7. ETC压缩纹理动画](OpenGL ES入门/7. ETC压缩纹理动画.md)
 * [OpenGL ES实战](OpenGL ES实战/README.md)
   * [1. 照相机特效.md](OpenGL ES实战/1. 照相机特效.md)
