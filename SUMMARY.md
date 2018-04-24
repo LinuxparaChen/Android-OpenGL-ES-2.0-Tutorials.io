@@ -13,6 +13,6 @@
   * [3. 地球绘制-光照](OpenGL ES入门/3. 地球绘制-光照.md)
   * [4. 3D模型加载](OpenGL ES入门/4. 3D模型加载.md)
   * [5. 3D模型-阴影](OpenGL ES入门/5. 3D模型-阴影.md)
-  * [6. 摄像头预览效果](OpenGL ES入门/6. 摄像头预览效果.md)
-  * [7. 混合、雾、背面裁剪](OpenGL ES入门/7. 混合、雾、背面裁剪.md)
-
+  * [6. 混合、雾、背面裁剪](OpenGL ES入门/6. 混合、雾、背面裁剪.md)
+* [OpenGL ES实战](OpenGL ES实战/README.md)
+  * [1. 照相机特效.md](OpenGL ES实战/1. 照相机特效.md)
