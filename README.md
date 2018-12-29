@@ -52,7 +52,7 @@ LearnOpenGL中文版[https://learnopengl-cn.github.io/](https://learnopengl-cn.g
   
 * [OpenGL ES实战](OpenGL ES实战/README.md)
   
-  * [1.照相机特效](OpenGL ES实战/1.照相机特效.md)  
+  * [1.照相机特效](OpenGL ES实战/1. 照相机特效.md)  
 
 
 
