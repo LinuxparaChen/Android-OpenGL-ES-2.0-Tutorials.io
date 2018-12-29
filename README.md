@@ -46,7 +46,7 @@ LearnOpenGL中文版[https://learnopengl-cn.github.io/](https://learnopengl-cn.g
   * [2. 立方体绘制-纹理](OpenGL ES入门/2. 立方体绘制-纹理.md)
   * [3. 地球绘制-光照](OpenGL ES入门/3. 地球绘制-光照.md)
   * [4. 3D模型加载](OpenGL ES入门/4. 3D模型加载.md)
-<!--* [5. 3D模型-阴影](5. 3D模型-阴影.md)
+  <!--* [5. 3D模型-阴影](5. 3D模型-阴影.md)
   * [6. 混合、雾、背面裁剪](6. 混合、雾、背面裁剪.md)
   * [7. ETC压缩纹理动画](7. ETC压缩纹理动画.md)-->
   
