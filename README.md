@@ -42,12 +42,15 @@ LearnOpenGL中文版[https://learnopengl-cn.github.io/](https://learnopengl-cn.g
 
 * [OpenGL ES入门](OpenGL ES入门/README.md)
 
-  * [1. 三角形绘制](OpenGL ES入门/1. 三角形绘制.md)  
-  * [2. 立方体绘制](OpenGL ES入门/2. 立方体绘制.md)  
-  * [3. 地球绘制](OpenGL ES入门/3. 地球绘制.md)  
-  * [4. 三棱锥绘制](OpenGL ES入门/4. 三棱锥绘制.md)  
-  * [5. 摄像头预览效果](OpenGL ES入门/5. 摄像头预览效果.md)
-  * [6. 模型加载.md](OpenGL ES基础/6. 模型加载.md)
+  * [1. 三角形绘制](OpenGL ES入门/1. 三角形绘制.md)
+  * [2. 立方体绘制-纹理](OpenGL ES入门/2. 立方体绘制-纹理.md)
+  * [3. 地球绘制-光照](OpenGL ES入门/3. 地球绘制-光照.md)
+  * [4. 3D模型加载](OpenGL ES入门/4. 3D模型加载.md)
+<!--* [5. 3D模型-阴影](5. 3D模型-阴影.md)
+  * [6. 混合、雾、背面裁剪](6. 混合、雾、背面裁剪.md)
+  * [7. ETC压缩纹理动画](7. ETC压缩纹理动画.md)-->
+
+
 
 
 
